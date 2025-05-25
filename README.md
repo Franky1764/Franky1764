@@ -9,6 +9,7 @@ Soy una desarrolladora con alma de educadora, apasionada por la ciberseguridad, 
     Aurora Binaria: comunidad y recursos para alfabetización digital y seguridad.
     Mi App Dorada: app socialmente significativa para adultos mayores y cuidadores.
     Talleres para niñas: programación, ciberseguridad y pensamiento computacional con enfoque STEM.
+    English for ICT: app para niñas amantes de las carreras STEM
 
 🧠 Tech Stack actual:
 
