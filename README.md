@@ -13,12 +13,13 @@ Soy una desarrolladora con alma de educadora, apasionada por la ciberseguridad, 
 
 🧠 Tech Stack actual:
 
-JavaScript TypeScript Python SQL Ionic/Angular HTML/CSS Firebase
+JavaScript TypeScript Python SQL Ionic/Angular HTML/CSS Firebase Flask
+
 🌈 Lo que me mueve:
 
 Empoderar. Proteger. Crear. Compartir.
 
-    “Built from A to G, I code with light.”
+   Soy esa mente inquieta que no se conforma con lo posible, porque sabe que lo necesario aún está por construirse.
 
 👣 Encuéntrame también en:
 
